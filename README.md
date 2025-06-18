@@ -1,4 +1,4 @@
-v<h2 align="left">👋 Hello, world! I'm Robert Thomas, currently pursuing a 🎓 B.Tech in Cyber Security 🔐 at St. Joseph’s College of Engineering and Technology, Palai. 🏫</h2>
+<h2 align="left">👋 Hello, world! I'm Robert Thomas, currently pursuing a 🎓 B.Tech in Cyber Security 🔐 at St. Joseph’s College of Engineering and Technology, Palai. 🏫</h2>
 
 ###
 
