@@ -1,61 +1,195 @@
-<h2 align="left">👋 Hello, world! I'm Robert Thomas, currently pursuing a 🎓 B.Tech in Cyber Security 🔐 at St. Joseph’s College of Engineering and Technology, Palai. 🏫</h2>
+<div align="center">
 
-###
+# Hi there, I'm Robert Thomas 👋
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast;AI+Developer;B.Tech+CSE+(Cybersecurity);Full+Stack+Developer;Always+Learning+Something+New" />
+
+<img src="https://komarev.com/ghpvc/?username=RobertThomasKariankal&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
-</div>
+# 💫 About Me
 
-###
+```yaml
+Name: Robert Thomas
+Education: B.Tech Computer Science Engineering (Cybersecurity)
+
+Interests:
+  - Cybersecurity
+  - Artificial Intelligence
+  - Generative AI
+  - Digital Forensics
+  - Network Security
+  - Full Stack Development
+
+Currently Learning:
+  - Large Language Models
+  - AI Agents
+  - Offensive Security
+  - Cloud Security
+
+Goal:
+  Build secure and intelligent applications that solve real-world problems.
+```
+
+---
+
+# 🚀 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,java,javascript"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=flask"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+## 🔐 Wave Encryption and Audio Security
+
+Secure audio communication using encryption techniques to enhance confidentiality and integrity.
+
+---
+
+## 🤖 AI Grammar Correction Voice Assistant
+
+✔ Speech-to-Text
+
+✔ AI Grammar Correction
+
+✔ Text-to-Speech
+
+✔ Flask
+
+✔ Groq API
+
+✔ ElevenLabs
+
+---
+
+## 🎓 Student Institution Finder
+
+A platform that helps students discover educational institutions based on:
+
+- Course
+- Location
+- Institution Name
+- Reviews
+- Nearby Search
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobertThomasKariankal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=RobertThomasKariankal&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RobertThomasKariankal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RobertThomasKariankal&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertThomasKariankal&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-###
+---
 
-<br clear="both">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/RobertThomasKariankal/RobertThomasKariankal/output/snake.svg" alt="Snake animation" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RobertThomasKariankal&theme=tokyonight&hide_border=true"/>
 
-###
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RobertThomasKariankal&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RobertThomasKariankal&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/RobertThomasKariankal">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/robertthomaskariankal/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:robertthomaskariankal@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Favorite Quote
+
+<div align="center">
+
+> **"Security is not a product, but a process."**
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building secure solutions, exploring AI, and continuously learning."*
+
+</div>
