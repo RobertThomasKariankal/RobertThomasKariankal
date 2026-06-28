@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Robert Thomas 👋
+# Hi there, I'm Robert Thomas 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast;AI+Developer;B.Tech+CSE+(Cybersecurity);Full+Stack+Developer;Always+Learning+Something+New" />
 
@@ -10,7 +10,7 @@
 
 ---
 
-# 💫 About Me
+#  About Me
 
 ```yaml
 Name: Robert Thomas
@@ -36,7 +36,7 @@ Goal:
 
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
 ### Programming Languages
 
@@ -70,42 +70,6 @@ Goal:
 
 ---
 
-# 🌟 Featured Projects
-
-## 🔐 Wave Encryption and Audio Security
-
-Secure audio communication using encryption techniques to enhance confidentiality and integrity.
-
----
-
-## 🤖 AI Grammar Correction Voice Assistant
-
-✔ Speech-to-Text
-
-✔ AI Grammar Correction
-
-✔ Text-to-Speech
-
-✔ Flask
-
-✔ Groq API
-
-✔ ElevenLabs
-
----
-
-## 🎓 Student Institution Finder
-
-A platform that helps students discover educational institutions based on:
-
-- Course
-- Location
-- Institution Name
-- Reviews
-- Nearby Search
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -134,17 +98,7 @@ A platform that helps students discover educational institutions based on:
 
 </div>
 
----
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RobertThomasKariankal&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
 
 # 🌐 Connect With Me
 
@@ -174,17 +128,7 @@ A platform that helps students discover educational institutions based on:
 
 </div>
 
----
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 <div align="center">
 
